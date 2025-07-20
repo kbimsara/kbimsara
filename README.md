@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Following SE Degree program at SLTC<br>🌱 I work as full-stack developer<br>💬 Find Me (Portfolio- https://kbimsara.github.io/myportfolio.github.io , https://kbxwebx-test.top)
+🔭 I’m currently Following SE Degree programme at SLTC<br>🌱 I work as full-stack developer<br>💬 Find Me (Portfolio- https://kbimsara.github.io/myportfolio.github.io , https://kbxwebx-test.top)
 
 
 ## 🌐 Socials:
